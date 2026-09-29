@@ -6,8 +6,8 @@
     "type": "microsoft"
   },
   "server": {
-    "ip": "95.217.100.57",
-    "port": 25965,
+    "ip": "great.playserver.pro",
+    "port": 22667,
     "version": "1.21.9"
   },
   "utils": {
